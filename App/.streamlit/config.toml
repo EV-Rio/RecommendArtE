@@ -1,0 +1,10 @@
+[server]
+maxUploadSize = 10
+
+[theme]
+backgroundColor = "#63726D"
+secondaryBackgroundColor = "#2E2B2C"
+textColor = "#E6E6E6"
+linkColor = "#A5BE00"
+font = "Merriweather:https://fonts.googleapis.com/css2?family=Merriweather:ital,opsz,wght@0,18..144,300..900;1,18..144,300..900&display=swap" 
+baseFontSize = 18
